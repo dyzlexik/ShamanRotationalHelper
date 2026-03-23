@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: Shaman Rotation Helper
+## Notes: Visual rotation helper for Turtle WoW Shamans.
+## Author: Codex + mikke
+## Version: 0.1.0
+## SavedVariables: SRH_DB
+
+ShamanRotationHelper.xml
